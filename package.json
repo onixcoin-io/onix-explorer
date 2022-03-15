@@ -5,9 +5,9 @@
   "repository": "https://github.com/Sharath11/onix-explorer.git",
   "contributors": [],
   "bugs": {
-    "url": "https://github.com/Sharath11/onix-explorer/issues"
+    "url": "https://github.com/onixcoin-io/onix-explorer/issues"
   },
-  "homepage": "https://github.com/Sharath11/onix-explorer",
+  "homepage": "https://github.com/onixcoin-io/onix-explorer",
   "license": "MIT",
   "keywords": [
     "insight",
